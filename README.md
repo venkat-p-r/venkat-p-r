@@ -1,6 +1,6 @@
 # Venkat PR ✌
 ## 🤷 Interests
-### Machine Learning - IOT - Computer Vision - Autonomous Car - Web Developement
+### Machine Learning - IOT - Computer Vision - Web Developement
 ## 📒 Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-p-r/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/venkat9112000?hr_r=1)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkat-p-r)  [![FreeCodeCamo](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/venkat_pr) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/venkpr) [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/810cf162c068b21df52535a7056edbcb)
 ## 🈸 Languages, Frameworks, Databases and Cloud
